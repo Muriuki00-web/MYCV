@@ -1,4 +1,3 @@
-
 📄 My CV App
 
 
@@ -8,10 +7,8 @@
 👋 About the Project
 
 
-My CV App is a simple Android application developed using **Java and Android Studio** to display my personal information, education, skills, and career objectives.
+My CV App is a simple Android application developed using java and Android Studio to display my personal information, education, skills, and career objectives.
 🎯 Objectives
-
-
 - Develop a personal CV mobile application.
 - Practice Java programming and Android development.
 - Present CV information in a simple, attractive layout.
@@ -19,8 +16,6 @@ My CV App is a simple Android application developed using **Java and Android Stu
 - Java
 - Android Studio
 - GitHub
-
-- 
 ✨ Features
 - Personal information
 - Education and skills
