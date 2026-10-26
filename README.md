@@ -15,7 +15,8 @@ My CV App is a simple Android application developed using java and Android Studi
 🛠️ Technologies
 - Java
 - Android Studio
-- GitHub
+- Github
+- 
 ✨ Features
 - Personal information
 - Education and skills
